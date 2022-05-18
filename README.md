@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nxbodyevzncvre&label=Profile%20views&color=0e75b6&style=flat" alt="nxbodyevzncvre" /> </p>
 
-<p align="left"> <a href="https://twitter.com/urmumisawful" target="blank"><img src="https://img.shields.io/twitter/follow/nxbodyevzncvre?logo=twitter&style=for-the-badge" alt="urmumisawful" /></a> </p>
+<p align="left"> <a href="https://twitter.com/urmumisawful" target="blank"><img src="https://img.shields.io/twitter/follow/urmumisawful?logo=twitter&style=for-the-badge" alt="urmumisawful" /></a> </p>
 
 - 🌱 I’m currently learning **Tensor Flow Python library**
 
