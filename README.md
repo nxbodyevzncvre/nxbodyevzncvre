@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.gifer.com/9Qlb.gif](https://i.gifer.com/9Qlb.mp4))]
+[![MasterHead]([https://i.gifer.com/9Qlb.gif])]
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">- I'm 16 years old Artificial Intelligence & Machine Learning Enthusiast from Kazakhstan.</h3>
 <img align="right" alt="Killua" width="400" src="https://c.tenor.com/pLhhw8tQib0AAAAC/killua-hunter-x-hunter.gif">
