@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nxbodyevzncvre](https://github.com/nxbodyevzncvre)
 
-- 💬 Ask me about **Anything about Python :)**
+- 💬 Ask me about ** Python :)**
 
 - 📫 How to reach me **denielmaestro@gmail.com**
 
@@ -25,7 +25,7 @@
 <a href="https://www.leetcode.com/apathetick1d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="apathetick1d" height="30" width="40" /></a>
 <a href="https://discord.gg/nxbodyevzncvre#2998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nxbodyevzncvre#2998" height="30" width="40" /></a>
 </p>
-### 😂Random Dev Meme
+😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <h3 align="left">Languages and Tools:</h3>
