@@ -1,4 +1,4 @@
-<img align="center" src = "https://c.tenor.com/6PGprBq1zyAAAAAC/kurokos-basketball-kurokono-basket.gif">
+<p align="center"><img src = "https://c.tenor.com/6PGprBq1zyAAAAAC/kurokos-basketball-kurokono-basket.gif"/></p>
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">- I'm 16 years old Artificial Intelligence learner & DOTA 2 player from Kazakhstan.</h3>
 <img align="right" alt="Killua" width="400" src="https://c.tenor.com/pLhhw8tQib0AAAAC/killua-hunter-x-hunter.gif">
