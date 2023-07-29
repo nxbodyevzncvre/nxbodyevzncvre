@@ -7,16 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/urmumisawful" target="blank"><img src="https://img.shields.io/twitter/follow/urmumisawful?logo=twitter&style=for-the-badge" alt="urmumisawful" /></a> </p>
 
-- 🌱 I’m currently learning **Tensor Flow Python library**
-
-- 👨‍💻 All of my projects are available at [https://github.com/nxbodyevzncvre](https://github.com/nxbodyevzncvre)
-
-- 💬 Ask me about ** Python :)**
-
-- 📫 How to reach me **denielmaestro@gmail.com**
-
-- ⚡ Fun fact **I'm playing DOTA in my free time)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/urmumisawful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="urmumisawful" height="30" width="40" /></a>
