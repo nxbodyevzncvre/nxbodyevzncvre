@@ -1,6 +1,6 @@
 <p align="center"><img src = "https://c.tenor.com/6PGprBq1zyAAAAAC/kurokos-basketball-kurokono-basket.gif"/></p>
 <h1 align="center">Hi 👋, I'm Danil</h1>
-<h3 align="center">- I'm 16 years old Artificial Intelligence learner & DOTA 2 player from Kazakhstan.</h3>
+<h3 align="center">- I'm 17 years old Full-Stack Web Deveoloper from Kazakhstan.</h3>
 <img align="right" alt="Killua" width="400" src="https://c.tenor.com/pLhhw8tQib0AAAAC/killua-hunter-x-hunter.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nxbodyevzncvre&label=Profile%20views&color=0e75b6&style=flat" alt="nxbodyevzncvre" /> </p>
