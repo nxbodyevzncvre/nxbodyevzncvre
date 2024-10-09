@@ -1,6 +1,6 @@
 <p align="center"><img src = "https://i.pinimg.com/originals/9f/86/b4/9f86b47b419ab91250927b7fad7f08fd.gif"/></p>
 <h1 align="center">Hi 👋, I'm Danil</h1>
-<h3 align="center">- I'm 17 years old Full-Stack Web Deveoloper from Kazakhstan.</h3>
+<h3 align="center">- I'm 18 years old Front-End Web Deveoloper from Kazakhstan, currently living in Slovakia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nxbodyevzncvre&label=Profile%20views&color=0e75b6&style=flat" alt="nxbodyevzncvre" /> </p>
 
